@@ -1,4 +1,4 @@
-# ProbStatistics_FriendshipNetwork
+# FriendshipNetwork
 Probability and Statistics
 
 University project
