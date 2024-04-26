@@ -1,2 +1,4 @@
 # ProbStatistics_FriendshipNetwork
- University Project 2023
+Probability and Statistics
+
+University project
