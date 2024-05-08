@@ -1,6 +1,8 @@
-<img width="756" alt="Screenshot 2024-04-27 at 17 39 32" src="https://github.com/yuliyat29/FriendshipNetwork/assets/124449536/c187c637-0125-475c-8af0-98b445fcf845">
-
 # Friendship Network Analysis
+
+<img width="659" alt="Screenshot 2024-05-08 at 22 04 59" src="https://github.com/yuliyat29/FriendshipNetwork/assets/124449536/c55bbd47-8db3-4a4b-a082-6c53e6ad8543">
+<img width="807" alt="Screenshot 2024-05-08 at 22 05 36" src="https://github.com/yuliyat29/FriendshipNetwork/assets/124449536/913a5f44-d892-40fd-b11f-7b3e8b38b9b5">
+
 
 ## Description
 
